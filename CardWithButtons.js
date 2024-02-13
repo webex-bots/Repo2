@@ -1,3 +1,5 @@
+//for wakanda
+
 var url = $a3.output.issue_url;
 var issueId = $a3.output.issue_key;
 var summary = $a3.output.issue_data.summary
