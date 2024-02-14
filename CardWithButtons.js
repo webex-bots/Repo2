@@ -1,7 +1,7 @@
 //for wakanda
 //riserinseandsleep
 //asdewdw-changesmade
-//whynotiswiz
+//whynotiswiz-borosh
 //for me
 var url = $a3.output.issue_url;
 var issueId = $a3.output.issue_key;
